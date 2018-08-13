@@ -17,6 +17,6 @@ an unforced mapping (or analogy) to the rest of the cake, despite them being nom
 lessons from literature or film by analogizing what we see or read to aspects of our own life. See [Hofstadter](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) for a more philosophical treatment.
 
 <p align="center">
-![Alt text](analogy.png)
+![alt](analogy.png)
 </p>
 
