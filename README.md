@@ -16,5 +16,7 @@ to generate unforced mappings. Analogous (!) to how when someone comments on the
 an unforced mapping (or analogy) to the rest of the cake, despite them being nominally distinct objects. Or how we unconsciously extract 
 lessons from literature or film by analogizing what we see or read to aspects of our own life. See [Hofstadter](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) for a more philosophical treatment.
 
+<p align="center">
 ![Alt text](analogy.png)
+</p>
 
