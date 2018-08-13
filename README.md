@@ -2,7 +2,7 @@
 
 ### Under (heavy) construction
 
-For use in Python 3.6. An extension of [World Models](https://arxiv.org/pdf/1803.10122.pdf) (2018. Ha, Schmidhuber) wherein
+For use in Python 3.6. An extension of [World Models](https://arxiv.org/pdf/1803.10122.pdf) (Ha, Schmidhuber 2018) wherein
 agents learn to generate mappings (or more poetically, create analogies) between environments to learn the general
 structure underlying similar tasks. Using the OpenAI Gym, the Atari games Montezuma's Revenge and Frostbite are simulated
 consecutively for E iterations, with the frames seen at a given time step in the previous simulation acting as the target for the agents' 
