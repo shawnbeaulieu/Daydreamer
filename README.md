@@ -19,9 +19,10 @@ An untrained Mixture Density RNN (TensorFlow) is used as a reservoir to supply t
 The variational autoencoder (TensorFlow) is, in theory, equipped to handle convolutional encodings, but is currently built for 
 simple feedforward network architectures.
 
-At this rudimentary stage, the system is being forced to "dream" in one environment while navigating another. Future versions will seek  
-to generate unforced mappings between superficially disparate situations. This process is analogous (!) to how we unconsciously extract 
-lessons from literature or film by mapping what we see or read onto aspects of our own life. See [Hofstadter](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) for a more philosophical treatment.
+At this rudimentary stage, the system is being forced to "dream" in one environment while navigating another. Future versions will 
+seek to generate unforced mappings between superficially disparate situations. This process is analogous (!) to how we unconsciously 
+extract lessons from literature or film by mapping what we see or read onto aspects of our own life. See [Hofstadter](https://www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793) for a more philosophical treatment.
+
 
 Much more yet to come!
 
