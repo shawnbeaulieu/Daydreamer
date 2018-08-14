@@ -114,7 +114,7 @@ class Daydreamer():
 
             phi_counter = 0 # for tracking frames encountered
 
-            for t in range(10):
+            for t in range(100):
   
                 """
                 'env.step' returns four values:
@@ -188,7 +188,7 @@ class Daydreamer():
             # Compute cost of the VAE and obtain the compressed representation of
             # the observation received above.
             opt, cost, self.Z, self.dream = self.world_model.Fit(present, past)
-            Show_Dream(self.dream)
+            #Show_Dream(self.dream)
             self.m += 1
 
         else:
@@ -204,7 +204,7 @@ class Daydreamer():
             
             self.m = 1E10
             self.Perceive(present)
-            #Show_Dream(self.dream)                  
+            Show_Dream(self.dream)                  
 
     def Perceive(self, present):
 

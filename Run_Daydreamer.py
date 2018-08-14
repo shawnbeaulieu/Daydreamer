@@ -11,7 +11,7 @@ def main():
 
     params = {
 
-        'render': False,
+        'render': True,
         'phi_length': 4,
         'epochs': 20,
         'environments': {0:'MontezumaRevenge-v0', 1:'Frostbite-v0'},
